@@ -1,5 +1,5 @@
 # LandingFood
-![alt text](banner.png "LandingFood")
-![alt text](screen.png "LandingFood")
+![alt text](banner.png "LandingFood_1")
+![alt text](screen.png "LandingFood_2")
 
 
